@@ -4,7 +4,7 @@ elementLeft.addEventListener("mouseleave",function(){
     gsap.to(elementLeft,{
         backgroundColor : "white",
     });
-    elementLeft.innerHTML="Bhat Muddu";
+    elementLeft.innerHTML="By Yasir Teeli";
 })
 function Myfunction1(details)
 {
